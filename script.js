@@ -32,3 +32,4 @@ alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
 alert("You got no money now you are broke")
+var CustomerMoney = 0
