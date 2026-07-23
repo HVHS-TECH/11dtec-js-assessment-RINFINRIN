@@ -15,7 +15,7 @@ alert("You have " + CustomerMoney + "$ to spend on our epic doughnuts")
 alert("Each Doughnut will cost you 10$ bucks")
 Doughnuts=prompt("What doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = 40
+let CustomerMoney = - 40
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
