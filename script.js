@@ -31,4 +31,4 @@ var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-alert("You got no money now you are broke")
+alert("You got no money now " + CustomerName + " you are broke")
