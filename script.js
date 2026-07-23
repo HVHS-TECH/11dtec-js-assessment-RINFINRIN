@@ -15,21 +15,20 @@ alert("You have " + CustomerMoney + "$ to spend on our epic doughnuts")
 alert("Each Doughnut will cost you 10$ bucks")
 Doughnuts=prompt("What doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = 40
+var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = 30
+var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = 20
+var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = 10
+var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
 alert("You got no money now you are broke")
-var CustomerMoney = 0
