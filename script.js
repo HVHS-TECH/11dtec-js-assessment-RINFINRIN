@@ -4,6 +4,7 @@ var Doughnuts
 var Doughnuts = ["Salt and Pepper", " Healthy Grass", " Thai Chilli", " Kung Pao", " Pickles & Onion"]
 var CustomerMoney = 50
 var userMoney
+const UserDoughnuts
 console.log("Hello world!")
 alert("Hello, Welcome to Dingle Doughnuts")
 CustomerName=prompt("What is your name?")
@@ -18,6 +19,7 @@ alert("The " + Doughnuts + " doughnut will cost you 10 bucks and you ARE going t
 var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
+console.log UserDoughnuts
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
 var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
