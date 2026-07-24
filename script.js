@@ -17,25 +17,25 @@ alert("You have " + CustomerMoney + "$ to spend on our epic doughnuts")
 alert("Each Doughnut will cost you 10$ bucks")
 Doughnuts=prompt("What doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks and you ARE going to spend it all")
-var CustomerMoney = Array
+var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
-console.log; UserDoughnuts
+console.log; Array
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = Array
+var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
-console.log; UserDoughnuts
+console.log; Array
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = Array
+var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
-console.log; UserDoughnuts
+console.log; Array
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = Array
+var CustomerMoney = CustomerMoney - 10
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
-console.log; UserDoughnuts
+console.log; Array
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
 alert("You got no money now " + CustomerName + " you are broke")
 alert("You have ordered " + Doughnuts + " That will be a total of 50 bucks")
