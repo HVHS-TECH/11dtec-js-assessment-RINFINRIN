@@ -4,7 +4,7 @@ var Doughnuts
 var Doughnuts = ["Salt and Pepper", " Healthy Grass", " Thai Chilli", " Kung Pao", " Pickles & Onion"]
 var CustomerMoney = 50
 var userMoney
-var UserDoughnuts = Array 
+var UserDoughnuts = new Array 
 console.log("Hello world!")
 alert("Hello, Welcome to Dingle Doughnuts")
 CustomerName=prompt("What is your name?")
