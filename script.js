@@ -5,6 +5,7 @@ var Doughnuts = ["Salt and Pepper", " Healthy Grass", " Thai Chilli", " Kung Pao
 var CustomerMoney = 50
 var userMoney
 var UserDoughnuts = new Array 
+// I can not get the array working I am so sorry I know you are really disappointed at me
 console.log("Hello world!")
 alert("Hello, Welcome to Dingle Doughnuts")
 CustomerName=prompt("What is your name?")
