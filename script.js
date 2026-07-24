@@ -17,22 +17,22 @@ alert("You have " + CustomerMoney + "$ to spend on our epic doughnuts")
 alert("Each Doughnut will cost you 10$ bucks")
 Doughnuts=prompt("What doughnut would you like?")
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks and you ARE going to spend it all")
-var CustomerMoney = CustomerMoney - 10
+var CustomerMoney = Array
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 console.log; UserDoughnuts
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = CustomerMoney - 10
+var CustomerMoney = Array
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 console.log; UserDoughnuts
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = CustomerMoney - 10
+var CustomerMoney = Array
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 console.log; UserDoughnuts
 alert("The " + Doughnuts + " doughnut will cost you 10 bucks")
-var CustomerMoney = CustomerMoney - 10
+var CustomerMoney = Array
 alert("You have got " + CustomerMoney + " left to spend")
 Doughnuts=prompt("What other doughnut would you like?")
 console.log; UserDoughnuts
